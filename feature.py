@@ -1,4 +1,6 @@
 print(2 + 3)
 a = 111
-d = 1 + 1 + 2
-print(a + d + 10)
+d = 1 + 1
+print("Hello")
+print(a + d + 5)
+
